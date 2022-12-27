@@ -1,0 +1,22 @@
+
+   1. What are Data Types?
+   2. Name four of the main data types in Python?
+   3. Why are these data types known as Python’s core data types?
+   4. What does immutable mean and what three types of Python core data types are considered immutable?
+   5. Name all the type of operators?
+   6. What does % do? What is the difference between the / & //.
+   7. What are the logical operators? How they work?
+   8. What is the use of ** operator?
+   9. Name the keyword which helps in writing code involves condition.
+  10. Write the syntax of simple if statement.
+  11. Is there any limit of statement that can appear under an if block?
+  12. What signifies the end of a statement block or suite in Python?
+  13. What function can generate a list of numbers?
+  14. Name the 2 keywords used for looping?
+  15. What is the nested loops?
+  16. What is continue, break, pass?
+  17. Which keyword is used for function?
+  18. Which of the following items are present in the function header?
+  19. What does global keyword mean?
+  20. What does local local variable mean?
+
